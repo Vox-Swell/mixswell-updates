@@ -1,22 +1,22 @@
 {
   "schema": 2,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mandatory": false,
-  "notes": "MixSwell 1.0.0\n- First release: a complete vocal chain in one window.\n- 20 CLASSIC and 36 MAINSTREAM presets.\n- SwellTune, AUTO LEVEL and level-matched A/B.",
+  "notes": "MixSwell 1.0.1\n- Fixed a SwellTune pitch-tracking loop that could freeze the DAW.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/Vox-Swell/mixswell-updates/releases/download/v1.0.0/MixSwell-SwellAudio-1.0.0-macOS-universal.pkg",
-      "size": 11530118,
-      "sha256": "4bd6405f42977deb375baff64fc4da006a8ced136ce50cf0861cfa3df68537e0",
+      "url": "https://github.com/Vox-Swell/mixswell-updates/releases/download/v1.0.1/MixSwell-SwellAudio-1.0.1-macOS-universal.pkg",
+      "size": 11530416,
+      "sha256": "ef0da9a7213ceed823f2a77a750f7e0814b5d52cad7f0853eb19f9addd177fbf",
       "architectures": [
         "arm64",
         "x86_64"
       ]
     },
     "windows": {
-      "url": "https://github.com/Vox-Swell/mixswell-updates/releases/download/v1.0.0/MixSwell-SwellAudio-1.0.0-Windows-x64-Setup.exe",
-      "size": 5314771,
-      "sha256": "dac7037b31134eec91015f1c18a25c5971cd53aff7fa2b24541e0efdb1d960ab",
+      "url": "https://github.com/Vox-Swell/mixswell-updates/releases/download/v1.0.1/MixSwell-SwellAudio-1.0.1-Windows-x64-Setup.exe",
+      "size": 5314309,
+      "sha256": "d9fc08b570bd19f8997c2b606060df70418a5495841cf6deaebf4ed7cf524329",
       "architectures": [
         "x86_64"
       ]
